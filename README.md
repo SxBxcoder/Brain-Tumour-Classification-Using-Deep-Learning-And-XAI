@@ -5,7 +5,7 @@
 <h1 align="center">🧠 Brain Tumor Classification using Deep Learning and Explainable AI</h1>
 
 <p align="center">
-  <em>Latency-aware modeling • Glioma grading • Tumor onset prediction • XAI with SHAP & LIME</em>
+  <em>Latency-aware modeling • Glioma grading • Tumor onset prediction • XAI with SHAP & LIME • YOLOv5</em>
 </p>
 
 ---
