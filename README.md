@@ -93,6 +93,25 @@ Notable tools and findings:
 
 ---
 
+## 🧠 Models Implemented
+
+All the model architectures and training notebooks can be found inside the [models/](./models) folder.
+
+Each model includes:
+- `.ipynb` notebook with full explanation and outputs
+- `.py` script version for production use
+
+📌 **Models Included:**
+- Model 1: CNN Classifier
+- Model 2: Gaussian Naive Bayes
+- Model 3: Glioblastoma grading
+- Model 4: Transfer Learning to IDC Detection on Breast histopathology images
+- Model 5: Tumour Onset Predictor and Deterioration Estimator
+- Model 6: XAI with SHAP & LIME
+- Model 7: YOLOv5 Tumor Localization
+
+---
+
 ## 📈 __**Results & Evaluation**__
 
 - Achieved up to **94% accuracy** in binary tumour detection  
