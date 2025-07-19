@@ -1,11 +1,11 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/SxBxcoder/Brain-Tumour-Classification-Using-Deep-Learning-And-XAI/refs/heads/main/assets/%E2%80%94Pngtree%E2%80%94high-tech%20artificial%20intelligence%20digital%20brain_16429714.jpg" alt="Brain Tumor Deep Learning Project Banner" width="80%" />
-</p>
-
 <h1 align="center">🧠 Brain Tumor Classification using Deep Learning and Explainable AI</h1>
 
 <p align="center">
   <em>Latency-aware modeling • Glioma grading • Tumor onset prediction • XAI with SHAP & LIME • YOLOv5</em>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SxBxcoder/Brain-Tumour-Classification-Using-Deep-Learning-And-XAI/refs/heads/main/assets/%E2%80%94Pngtree%E2%80%94high-tech%20artificial%20intelligence%20digital%20brain_16429714.jpg" alt="Brain Tumor Deep Learning Project Banner" width="80%" />
 </p>
 
 ---
