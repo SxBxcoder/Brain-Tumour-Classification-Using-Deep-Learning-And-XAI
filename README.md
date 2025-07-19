@@ -95,8 +95,8 @@ Notable tools and findings:
 
 ## 📈 __**Results & Evaluation**__
 
-- Achieved up to **92% accuracy** in binary tumour detection  
-- Tumour grading model (multi-class) reached **88%** accuracy  
+- Achieved up to **94% accuracy** in binary tumour detection  
+- Tumour grading model (multi-class) reached reasonable accuracy  
 - SHAP/LIME outputs aligned with clinical MRI regions  
 - Temporal model predicted GBM deterioration window with high correlation
 
@@ -114,7 +114,8 @@ Notable tools and findings:
 
 - GPU & RAM limitations on Google Colab  
 - Data imbalance in tumour grading tasks  
-- Integrating SHAP for 3D models required advanced wrapper logic  
+- Integrating SHAP for 3D models required advanced wrapper logic
+- Lack of required datasets to be used to predict Tumour Onset and its Deterioration
 
 ---
 
