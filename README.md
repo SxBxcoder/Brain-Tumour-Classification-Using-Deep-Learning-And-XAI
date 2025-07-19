@@ -131,7 +131,7 @@ Future directions:
 
 ## Acknowledgment
 
-This research project was conducted independently under the mentorship of **Prof. [Full Name]**, Department of [Department Name], **IIT Kharagpur**.  
+This research project was conducted independently under the mentorship of **Prof. Aritra Hazra**, Department of Computer Science and Engineering, **IIT Kharagpur**.  
 I sincerely thank him for his valuable guidance, feedback, and support throughout the internship.
 
 ---
@@ -151,6 +151,6 @@ If this project contributes to your research, feel free to cite or acknowledge i
   author       = {Sayandip Bhattacharya},
   title        = {Brain Tumor Classification Using Deep Learning and Explainable AI},
   year         = {2025},
-  howpublished = {\url{https://github.com/SxBxcoder/}},
+  howpublished = {\url{https://github.com/SxBxcoder/Brain-Tumour-Classification-Using-Deep-Learning-And-XAI}},
   note         = {Summer Research Internship Project, IIT Kharagpur}
 }
