@@ -1,6 +1,6 @@
 🧠 Brain Tumour Classification & Prognosis Using Deep Learning and Explainable AI
 
-This repository presents the culmination of a research internship at IIT Kharagpur under the mentorship of Prof. Aritra Hazra, focused on developing AI-driven tools for brain tumour analysis through deep learning and explainability.
+This repository presents the culmination of my Summer Research Internship at IIT Kharagpur under the mentorship of Prof. Aritra Hazra, focused on developing AI-driven tools for brain tumour analysis through deep learning and explainability.
 
 📌 Abstract
 
