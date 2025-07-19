@@ -151,6 +151,6 @@ If this project contributes to your research, feel free to cite or acknowledge i
   author       = {Sayandip Bhattacharya},
   title        = {Brain Tumor Classification Using Deep Learning and Explainable AI},
   year         = {2025},
-  howpublished = {\url{https://github.com/SxBxcoder/brain-tumor-ai}},
+  howpublished = {\url{https://github.com/SxBxcoder/}},
   note         = {Summer Research Internship Project, IIT Kharagpur}
 }
