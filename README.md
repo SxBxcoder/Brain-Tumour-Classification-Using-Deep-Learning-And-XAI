@@ -63,13 +63,59 @@ Notable tools and findings:
 
 ---
 
-## 📊 __**Datasets Used**__
+📊 Datasets Used
+<details> <summary><strong>🧠 Dataset A — Brain Tumor MRI (Kaggle)</strong></summary>
+Use Case: Multiclass Tumor Classification
 
-| Dataset | Source | Use Case |
-|--------|--------|-----------|
-| UCSF-PDGM | BraTS2021 | Glioma Grading |
-| UPENN-GBM | Penn Medicine | Onset & Deterioration |
-| MAT-Format Dataset | Kaggle | Classic Classification |
+Images: 7022 T1-weighted contrast-enhanced MRIs
+
+Classes: Glioma, Meningioma, Pituitary Tumor, No Tumor
+
+Structure: Organized folder-wise, ideal for CNNs
+
+Link: 🔗 Brain Tumor MRI Dataset
+
+</details> <details> <summary><strong>🔍 Dataset B — Brain Tumor Database BTD-600 (Kaggle)</strong></summary>
+Use Case: Binary Classification (Benign vs Malignant)
+
+Images: 600 real-world MRI scans
+
+Challenge: Requires augmentation & regularization due to small size
+
+Link: 🔗 Brain Tumor BTD-600
+
+</details> <details> <summary><strong>🏥 Dataset C — UCSF-PDGM (TCIA)</strong></summary>
+Use Case: Glioma Grading
+
+Modality: FLAIR, T1, T2
+
+Labels: WHO Grades II, III, IV
+
+Source: Preoperative Diffuse Glioma MRIs
+
+Link: 🔗 UCSF-PDGM Dataset
+
+</details> <details> <summary><strong>🧬 Dataset D — Breast Histopathology Images (Kaggle)</strong></summary>
+Use Case: Binary IDC Detection via Transfer Learning
+
+Images: 277,524 image patches
+
+Classes: Invasive Ductal Carcinoma (0 or 1)
+
+Note: RGB histology images, not MRI
+
+Link: 🔗 Breast Histopathology Dataset
+
+</details> <details> <summary><strong>🧪 Dataset E — UPENN-GBM (TCIA)</strong></summary>
+Use Case: Tumor Onset Estimation & Progression Forecasting
+
+Type: Longitudinal GBM MRIs (multiple time points)
+
+Labels: Tumor progression & deterioration over time
+
+Link: 🔗 UPENN-GBM Dataset
+
+</details>
 
 ---
 
@@ -95,7 +141,7 @@ Notable tools and findings:
 
 ## 🧠 Models Implemented
 
-All the model architectures and training notebooks can be found inside the [models/](./models) folder.
+All the model architectures and training notebooks can be found inside the [Models/](./Models) folder.
 
 Each model includes:
 - `.ipynb` notebook with full explanation and outputs
@@ -150,7 +196,7 @@ Future directions:
 
 ## Acknowledgment
 
-This research project was conducted independently under the mentorship of **Prof. Aritra Hazra**, Department of Computer Science and Engineering, **IIT Kharagpur**.  
+This research project was conducted under the mentorship of **Prof. Aritra Hazra**, Department of Computer Science and Engineering, **IIT Kharagpur**.  
 I sincerely thank him for his valuable guidance, feedback, and support throughout the internship.
 
 ---
