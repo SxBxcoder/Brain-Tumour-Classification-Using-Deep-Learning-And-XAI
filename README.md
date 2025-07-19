@@ -14,7 +14,8 @@
 > This research internship aimed to develop an AI-driven framework for classifying brain tumours using deep learning, while also focusing on **explainability** to ensure clinical transparency.  
 >
 > ✅ Built **7 CNN models** for tasks like tumour detection, grading, onset estimation, and deterioration prediction  
-> ✅ Utilized **LIME** and **SHAP** for explainable AI  
+> ✅ Utilized **LIME** and **SHAP** for explainable AI
+> ✅ Object detection architectures such as YOLO (You Only Look Once) have been used to localise and classify anomalies in medical images in real-time.
 > ✅ Worked with top datasets like **UPENN-GBM**, **UCSF-PDGM**, etc.  
 > ✅ Developed a unique temporal model to estimate **glioblastoma progression**
 
