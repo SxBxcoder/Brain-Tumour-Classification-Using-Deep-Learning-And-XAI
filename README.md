@@ -138,8 +138,8 @@ Future directions:
 
 ## 📎 **Appendix**
 
-- 📄 [📘 Click here to read the Full Research Report (PDF)](./Brain_Tumor_AI_Report.pdf)
-
+- 📄 [📘 Click here to read the Full Research Report (PDF)](./Internship-Report.pdf)
+  
 ---
 
 ## 🖋️ **Author Signature**
