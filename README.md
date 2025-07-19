@@ -141,8 +141,6 @@ Link: 🔗 UPENN-GBM Dataset
 - **LIME:** Local Interpretable Model-agnostic Explanations  
 - **SHAP:** SHapley Additive exPlanations  
 
-![XAI Image](https://miro.medium.com/v2/resize:fit:1400/1*tPrfVu8YEdBMFvDYKPMgDQ.png)
-
 ---
 
 ## 🧠 Models Implemented
