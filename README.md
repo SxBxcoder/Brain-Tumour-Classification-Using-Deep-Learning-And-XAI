@@ -1,29 +1,14 @@
 # 🧠 **Brain Tumour Classification Using Deep Learning & Explainable AI**
 > 🔍 *AI-driven framework for tumour detection, grading, and progression prediction with XAI tools*
 
-![Banner](https://images.unsplash.com/photo-1581092334469-4c50f3b2d25c?auto=format&fit=crop&w=1350&q=80) <!-- Replace with brain-themed or medical AI banner -->
-
----
-
-### 👨‍💻 **Research Intern:**  
-**[Your Full Name]**  
-B.Tech in Computer Science and Engineering (2nd Year)  
-KIIT University  
-
-### 👨‍🏫 **Project Guide:**  
-**Prof. [Prof. X]**  
-Department of [Prof. X's Department]  
-Indian Institute of Technology, Kharagpur  
-
-🗓️ **Duration:** May 2025 – July 2025  
-📁 **Type:** Summer Research Internship  
+![Banner](https://images.unsplash.com/photo-1581092334469-4c50f3b2d25c?auto=format&fit=crop&w=1350&q=80) 
 
 ---
 
 ## 🔬 **Abstract**
 > This research internship aimed to develop an AI-driven framework for classifying brain tumours using deep learning, while also focusing on **explainability** to ensure clinical transparency.  
 >
-> ✅ Built **5 CNN models** for tasks like tumour detection, grading, onset estimation, and deterioration prediction  
+> ✅ Built **7 CNN models** for tasks like tumour detection, grading, onset estimation, and deterioration prediction  
 > ✅ Utilized **LIME** and **SHAP** for explainable AI  
 > ✅ Worked with top datasets like **UPENN-GBM**, **UCSF-PDGM**, etc.  
 > ✅ Developed a unique temporal model to estimate **glioblastoma progression**
@@ -104,7 +89,7 @@ Notable tools and findings:
 - **LIME:** Local Interpretable Model-agnostic Explanations  
 - **SHAP:** SHapley Additive exPlanations  
 
-![XAI Image](https://miro.medium.com/v2/resize:fit:1400/1*tPrfVu8YEdBMFvDYKPMgDQ.png) <!-- You can use your own SHAP heatmap from the report -->
+![XAI Image](https://miro.medium.com/v2/resize:fit:1400/1*tPrfVu8YEdBMFvDYKPMgDQ.png)
 
 ---
 
