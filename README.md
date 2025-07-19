@@ -1,7 +1,12 @@
-# 🧠 **Brain Tumour Classification Using Deep Learning & Explainable AI**
-> 🔍 *AI-driven framework for tumour detection, grading, and progression prediction with XAI tools*
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SxBxcoder/brain-tumor-classification/main/assets/banner_brain_dl_eai.png" alt="Brain Tumor Deep Learning Project Banner" width="100%" />
+</p>
 
-![Banner](https://images.unsplash.com/photo-1581092334469-4c50f3b2d25c?auto=format&fit=crop&w=1350&q=80) 
+<h1 align="center">🧠 Brain Tumor Classification using Deep Learning and Explainable AI</h1>
+
+<p align="center">
+  <em>Latency-aware modeling • Glioma grading • Tumor onset prediction • XAI with SHAP & LIME</em>
+</p>
 
 ---
 
