@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://raw.githubusercontent.com/SxBxcoder/brain-tumor-classification/main/assets/banner_brain_dl_eai.png](https://raw.githubusercontent.com/SxBxcoder/Brain-Tumour-Classification-Using-Deep-Learning-And-XAI/refs/heads/main/assets/%E2%80%94Pngtree%E2%80%94high-tech%20artificial%20intelligence%20digital%20brain_16429714.jpg](https://raw.githubusercontent.com/SxBxcoder/Brain-Tumour-Classification-Using-Deep-Learning-And-XAI/refs/heads/main/assets/%E2%80%94Pngtree%E2%80%94high-tech%20artificial%20intelligence%20digital%20brain_16429714.jpg)" alt="Brain Tumor Deep Learning Project Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/SxBxcoder/Brain-Tumour-Classification-Using-Deep-Learning-And-XAI/refs/heads/main/assets/%E2%80%94Pngtree%E2%80%94high-tech%20artificial%20intelligence%20digital%20brain_16429714.jpg" alt="Brain Tumor Deep Learning Project Banner" width="100%" />
 </p>
 
 <h1 align="center">🧠 Brain Tumor Classification using Deep Learning and Explainable AI</h1>
