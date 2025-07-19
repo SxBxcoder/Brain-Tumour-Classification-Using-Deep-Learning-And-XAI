@@ -77,7 +77,7 @@ Notable tools and findings:
 
 ### 🧹 **Preprocessing:**
 - NIfTI & `.mat` formats
-- Histogram equalization, resizing (512x512)
+- Histogram equalization, resizing
 - Masking, border extraction
 
 ### 🧠 **CNN Architectures:**
