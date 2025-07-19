@@ -129,22 +129,16 @@ Future directions:
 
 ---
 
-## 📚 **References**
+## Acknowledgment
 
-> See full reference list in [Report.pdf](./Brain_Tumour_AI_Report.pdf)  
-(Sample: Springer, IEEE, Elsevier, MDPI, BMC)
+This research project was conducted independently under the mentorship of **Prof. [Full Name]**, Department of [Department Name], **IIT Kharagpur**.  
+I sincerely thank him for his valuable guidance, feedback, and support throughout the internship.
 
 ---
 
 ## 📎 **Appendix**
 
 - 📄 [📘 Click here to read the Full Research Report (PDF)](./Internship-Report.pdf)
-  
----
-
-## 🖋️ **Author Signature**
-
-_This research work was conducted under the mentorship of Prof. X at IIT Kharagpur as part of the Summer Research Internship Programme, May–July 2025._  
 
 ---
 
@@ -153,10 +147,10 @@ _This research work was conducted under the mentorship of Prof. X at IIT Kharagp
 If this project contributes to your research, feel free to cite or acknowledge it via:
 
 ```bibtex
-@misc{yourgithub2025braintumour,
-  author = {Your Name},
-  title = {Brain Tumour Classification Using Deep Learning and Explainable AI},
-  year = {2025},
-  url = {https://github.com/yourusername/brain-tumour-ai},
-  note = {Summer Research Internship, IIT Kharagpur}
+@misc{SxBxcoder2025braintumor,
+  author       = {Sayandip Bhattacharya},
+  title        = {Brain Tumor Classification Using Deep Learning and Explainable AI},
+  year         = {2025},
+  howpublished = {\url{https://github.com/SxBxcoder/brain-tumor-ai}},
+  note         = {Summer Research Internship Project, IIT Kharagpur}
 }
