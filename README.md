@@ -138,10 +138,7 @@ Future directions:
 
 ## 📎 **Appendix**
 
-- 📁 `Colab Notebooks` folder  
-- 📄 `Brain_Tumour_AI_Report.pdf` (Complete report)  
-- 🧪 `Results` screenshots and XAI outputs  
-- 🧠 Model weights and `.pth` files (if added)
+- 📄 [📘 Click here to read the Full Research Report (PDF)](./Brain_Tumor_AI_Report.pdf)
 
 ---
 
